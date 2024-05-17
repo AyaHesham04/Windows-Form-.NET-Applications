@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\bin\Debug\Problem13.exe.config
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\bin\Debug\Problem13.exe
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\bin\Debug\Problem13.pdb
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.exe
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 5\Problem13\obj\Debug\Problem13.pdb

@@ -1,0 +1,10 @@
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\bin\Debug\Problem18.exe.config
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\bin\Debug\Problem18.exe
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\bin\Debug\Problem18.pdb
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.exe
+C:\Users\ASUS\OneDrive\Desktop\semester 4\CS232 Multimedia Programming\Assignment 7\Problem18\obj\Debug\Problem18.pdb
